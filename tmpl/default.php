@@ -771,7 +771,6 @@ foreach( $listCustomlist as $listCustomlist_idx => $customblock ) : ?>
 												
 												<?php endforeach; ?>
 												<?php endif; ?>
-											</div>
 
 
 
